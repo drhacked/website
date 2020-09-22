@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "array": [{
+                "title": "titre 1 - 1"
+            },
+            {
+                "title": "titre 1 - 2"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "array": [{
+                "title": "titre 2 - 1"
+            },
+            {
+                "title": "titre 2 - 2"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "array": [{
+                "title": "titre 3 - 1"
+            },
+            {
+                "title": "titre 3 - 2"
+            }
+        ]
+    }
+]
